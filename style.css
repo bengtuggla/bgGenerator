@@ -1,0 +1,20 @@
+body {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+  background: linear-gradient(to right, red, yellow);
+  padding-top: 4rem;
+}
+.h2 {
+  margin-top: 3rem;
+  text-transform: capitalize;
+}
+p {
+  text-transform: capitalize;
+  font-style: italic;
+  letter-spacing: 0.1rem;
+  margin-top: 3rem;
+  font-size: larger;
+  color: black;
+}
